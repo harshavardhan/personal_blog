@@ -1,10 +1,8 @@
 baseURL = "https://harsha-blog.netlify.app/"
 languageCode = "en-us"
-title = "My personal blog"
+title = "My blog"
 theme = "hugo-ink"
 paginate = 5
-
-# copyright = "© Copyright notice"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
