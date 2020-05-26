@@ -14,16 +14,16 @@ So the natural questions I had in my mind are: where to blog, what to blog on, a
 
 The initial suggestion I found was to host my *[Wordpress](https://wordpress.com/)* powered blog on Bluehost. But I didn’t want to spend a few bucks on my experimental blog. Then I found out about *[Jekyll](https://jekyllrb.com/)* powered blogs. I was ready to put in some efforts and make it, but I was worried about possibly more efforts into formatting blogs locally. So I finally decided to blog on *[Medium](https://medium.com/)* as it’s free and easy to blog. Am worried a bit if this is the right place for personal blogs, though.
 
-There were certain ideas I could blog on, like the things I love or the things I do. As I don’t do much (the title of the post 😆), I decided to blog on things about I love. I had the following options: food, music, math, or software development. I am usually choosy with food and feel food blogs to be so one dimensional, and they keep mentioning the food items/places they like with each one as (equally) awesome 😜. Music interests are personal, and sharing them will be equivalent to sharing a bunch of youtube playlists (or some ranked lists based on my listening activity). So I wanted to start a blog on software development.
+There were certain ideas I could blog on, like the things I love or the things I do. As I don’t do much (the title of the post :laughing:), I decided to blog on things about I love. I had the following options: food, music, math, or software development. I am usually choosy with food and feel food blogs to be so one dimensional, and they keep mentioning the food items/places they like with each one as (equally) awesome :stuck_out_tongue_winking_eye:. Music interests are personal, and sharing them will be equivalent to sharing a bunch of youtube playlists (or some ranked lists based on my listening activity). So I wanted to start a blog on software development.
 
 The reason is that I wanted to share some insights I gained and keep it as a short, exciting activity log. A friend of mine asked me why blog and not a personal diary then? I hope this motivates me more as I believe on explaining things to people, you get a clearer picture and question yourself more deeply, and it’s also a great way to contribute to the community which has taught me a lot.
 
 I want this to be an introductory blog for the random developer thoughts/logs that are about to come. I’ll consider things like how apt this blog is on Medium, adding tags and categorizing blogs, formatting better text, etc. May be some random thought blogs too if this goes good ;)
-I hope this blog gives some motivation to all three of us 💥
+I hope this blog gives some motivation to all three of us :boom:
 
-PS: Grammarly mentions my blog’s tone to be formal though I hope not 😆.
+PS: Grammarly mentions my blog’s tone to be formal though I hope not :laughing:.
 
-PPS: I’ll prove to my friends that this blog will definitely get more than three views 😉.
+PPS: I’ll prove to my friends that this blog will definitely get more than three views :wink:.
 
 ### After Thoughts
 

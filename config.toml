@@ -1,12 +1,14 @@
 baseURL = "https://harsha-blog.netlify.app/"
 languageCode = "en-us"
-title = "My blog"
+title = "Harsha's blog"
 theme = "hugo-ink"
 paginate = 5
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
+enableEmoji = true
 
 [params]
 	subtitle = "A place to log my thoughts with emphasis on programming"
@@ -42,7 +44,12 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/Harsha-vardhan30"
+url = "https://github.com/harshavardhan"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/cant_find_nick"
 
 [[params.social]]
 name = "RSS"
