@@ -1,0 +1,4 @@
+- [] Make a good 404.html
+- [] Buy a domain name
+- [] Aggregate notes properly and think more about sitemap
+- [] Proper emoji management
