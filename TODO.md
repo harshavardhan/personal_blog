@@ -2,3 +2,7 @@
 - [] Buy a domain name
 - [] Aggregate notes properly and think more about sitemap
 - [] Proper emoji management
+- [] Add sitemap
+- [] Add search on site (lunr?)
+- [] Deal with \n mess in diff's properly
+- [] Add reverse of email each time as env variable (*REV_EMAIL='dcba'*)
