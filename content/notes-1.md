@@ -54,4 +54,38 @@ I wanted a platform to know people's opinions and thoughts. Facebook and Instagr
 
 ---
 
+No edit option for a tweet was surprising for me. And also seeing many people mentioning that their tweets auto delete tweets after x days. (Saw some online clients which do this by utilizing the Twitter API)
+
+---
+
+I find deleting an account on a site quite amusing (more so after the [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) frenzy). Some people might argue whatever is once public has to remain public (Imagine who had archived what). And also, think of the catastrophic things to delete like comments with nested replies. It is even more true with digital information. It's usually hard to have information deletion policies where information is shared with or exposed by APIs to certain third-parties. And who knows if they have cached (or archived?) your data.
+
+---
+
+With the boom of e-commerce, I see everything being delivered to home. It's great for convenience, but after a point, I feel do people want everything to be delivered home? They have a lot of time in life and would want to get somethings themselves :stuck_out_tongue:
+
+---
+
+Will credit cards go obsolete in the future? Credit cards thrive by high-interest rates on debt (~40% of people in the US have credit card debt :astonished:). Pros: In case of fraud and disputes money gets deducted after the settlement of the issue, ease of payment - tap and go (I wish to compare about what people prefer: physical card vs. card on phone/wearables vs. scanning QR codes), cashback and rewards (giving back some profits from merchant charges back to the customer).
+
+Payment revolution in the US wrt web-commerce: [PayPal](https://paypal.com/), [Square](https://squareup.com/), [Stripe](https://stripe.com/). Also, read about [PayPal mafia](https://en.wikipedia.org/wiki/PayPal_Mafia).
+
+Payment revolution in India: Started by mobile wallets ([Paytm](https://paytm.com/), [Freecharge](https://www.freecharge.in/), [MobiKwik](https://www.mobikwik.com/)). [UPI](https://medium.com/wharton-fintech/your-guide-to-upi-the-worlds-most-advanced-payments-system-b4e0b372bf0b) was the game-changer. Rise of apps based on UPI: [PhonePe](https://www.phonepe.com/en/), Google Pay. And no vendor locked-in amount in wallet and cashback to account directly (for Google Pay) was a gamechanger for adoption. No convenience fees backed the adoption by merchants (Am surprised at this in comparison to merchant charges on card transactions).  
+
+You can also read about NEFT, IMPS, RTGS. I personally like the development of local RuPay to bypass Visa and Mastercard networks for domestic transactions. Also, the move by the govt to increase trust in online transactions by 2FA. I am surprised how there's no 2FA needed for card-based sales outside India. Does anyone attribute the adoption of UPI to demonetization :stuck_out_tongue_winking_eye:? 
+
+[PineLabs](https://www.pinelabs.com/) looks Square-esque. Also rise of Payment Gateways in India like [PayU](https://payu.in/), CCAvenue, Instamojo. I personally like [Instamojo](https://www.instamojo.com/), which started aiming at convenience with payments for businesses and move towards adding a Shopify like model. Look at a similar US-based startup [Gumroad](https://gumroad.com/) which provides ease of payment services for creators.
+
+Chance of undercutting merchant charges using cryptocurrencies built over stable coins. Like [Terra](https://terra.money/), and pass on some benefits to the user in terms of rewards.
+
+Neobanks are trying to replace conventional banks. (Presently backed by real money in partnership with banks) Take an example like [Juno](https://bankonjuno.com/), which is a neobank built on cryptocurrencies. I believe it'll take a lot of time to challenge the bank system, which is also backed by the governments.
+
+Will cash be replaced? Remember, cash can be used for tax evasions and leaves no identity trail of people (one more argument supporting crypto-wallets: they leave no identity trail on the cloud). In contrast, moving away from cash might help people record their transactions digitally and assist them in getting loans.
+
+---
+
+[ftcash](https://www.ftcash.com/): I used this app in my university days to pay my monthly canteen bills monthly. I used to get a 10% instant discount on my transactions. I used it to make all my transactions for three years, and never did I understand its business model. The canteen owner told me that he was not charged any additional charges, but his share was paid out each month in bulk. If they're earning nearly 10% money to stay afloat by some investment scheme in a month, haven't they found the secret sauce to infinite money? In hindsight, maybe our campus was a beta-test place for stabilizing the app. Or all this to get merchants data and give them credible collateral-free loans?
+
+---
+
 > Focus should be on content. Good blog, good content!

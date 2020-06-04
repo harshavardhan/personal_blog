@@ -30,4 +30,14 @@ An interesting [article](https://hbr.org/2014/01/how-netflix-reinvented-hr) on c
 
 HashiCorp Tao
 
+[Substack](https://substack.com/): A platform where you can start your own blog/journal and gain subscribers and monetize it via subscribe and view model without ads. As a reader, you can subscribe to your favorite writers and get updates via email. One might feel going back to mails instead of some web feed as a negative. More like Medium + writer's monetizing channel - medium feeds.
+
+If you want to catch up with the buzz on twitter about Clubhouse, [here](https://divinations.substack.com/p/inside-the-clubhouse) is a read. It's an audio calling app where you can join random group calls and talk. Based on the idea that people like to be spontaneous instead of scheduling things. Its future will depend on avoiding things like Zoom bombing, grouping people as communities(maybe not?), steering towards exciting conversations.
+
+[Loco](https://getloconow.com/): Started as an app inspired by HQTrivia. I used it for some days during my college days to play KBC styled quiz with friends. These days they are into live game streaming kind of stuff.
+
+[Dunzo](https://www.dunzo.com/): Get anything delivered
+
+[Buffer](https://buffer.com/): Schedule your social media updates and keep track of reach, impact.
+
 > Some of these are high-level opinions and not so highly researched.
