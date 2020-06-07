@@ -9,6 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 enableEmoji = true
+enableGitInfo = true
 
 [params]
 	subtitle = "A place to log my thoughts with emphasis on programming"
