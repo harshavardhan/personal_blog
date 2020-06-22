@@ -30,17 +30,22 @@ weight = 1
 [[menu.main]]
 name = "All posts"
 url = "/posts"
-weight = 2
+weight = 5
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[menu.main]]
+name = "Notes"
+url = "/random"
+weight = 3
 
 [[params.social]]
 name = "Github"

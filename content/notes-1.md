@@ -88,4 +88,36 @@ Will cash be replaced? Remember, cash can be used for tax evasions and leaves no
 
 ---
 
+There's a strong need to make application filling great again. Move from too-many-questions and never-filled-totally paper forms to just-needed-info digital forms. Also, move towards digital agreements like [DocuSign](https://www.docusign.com/), have verifiable e-documents (avoid fake documents like false job offers). Use blockchain to put up records on a public ledger and try to add in smart-contracts when possible.
+
+---
+
+After reading an [article](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/) on [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS), I was horrified imagining the web on HTTP days when anyone can make a [MITM attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack), decipher data as opposed to HTTPS. But how does DNS over HTTPS prevent intermediate routers from tracking based on a reverse DNS lookup? (Is DoH useless wrt protecting privacy?)
+
+---
+
+When I was thinking of adding search feature to my site, I came across [Lunr](https://lunrjs.com/) (name inspired from [Solr](https://lucene.apache.org/solr/)). Looking for ones with more advanced capabilities, I came across [Algolia](https://www.algolia.com/), Search as a service. Instead of writing your own search for the site, you can use it, which does better matching, personalized searches, corrects spellings, can search over video context, etc. In the world where Google has so dominated search, that's mostly a monopoly; it's nice to see services like Algolia and Elasticsearch build things around search.
+
+[Elasticsearch](https://www.elastic.co/elasticsearch/) is based on [Lucene](https://lucene.apache.org/core/) (like Solr) and can be used for searching programmatically (like for a location search on maps, tinder dates near you) using already indexed data.
+
+I am sometimes quite surprised about how many companies' banking on the enterprise model of open source projects can sustain. (It means the basic version of the software is open-sourced. You need to pay some extra bucks for enterprise features, support, training, certifications, hosted cloud management, etc.)  Some examples are [Jetbrains](https://www.jetbrains.com/) (awesome [IntelliJ](https://www.jetbrains.com/idea/features/) and even [Kotlin](https://kotlinlang.org/)?, the day they became a primary sponsor for [ICPC](https://icpc.global/) I should have understood that they're super-rich), HashiCorp, ElasticSearch, Grafana, MongoDB, Redis to name some of them. 
+
+But winning a hosted cloud offering war is difficult when giants like AWS host your open-source software and provide it as a SaaS. You can read about what happened at [here](https://grafana.com/blog/2019/03/20/everything-you-need-to-know-about-the-oss-licensing-war-part-1./) and [here](https://www.scylladb.com/2018/10/22/the-dark-side-of-mongodbs-new-license/) to understand about AWS Elasticsearch offering and license shifts of MongoDB, Redis. Also, take cloud providers like Alibaba, Tencent, for instance. Good luck fighting them in Chinese courts with updated licenses. 
+
+Also, note a different paradigm of search from text to visual like in the case of [Pinterest](https://www.pinterest.com/).
+
+---
+
+Keeping a service secure is hard. We keep on seeing many data leaks happening round the clock. So it's crucial to minimize password reuse. You can also check if your account has been compromised in a data breach on [haveibeenpwned](https://haveibeenpwned.com/). Trust Google enough and use suggested passwords everywhere? (Too lazy to change all passwords manually, looking for an *imaginary* tool which can do the password change to suggested password by automating a forgot password, verify from mail and change password workflow)
+
+---
+
+On seeing sites like Medium and [Inc42](https://inc42.com/)'s subscription model, I feel confused always. When I am done with my stories for the month, I open it and read incognito. Is it a bug/feature? :laughing: I also remember me and my friends clearing cookies on Hotstar after every 15 mins to see a cricket match for free.
+
+---
+
+Why would there be an incentive for bitcoin being the favored cryptocurrency? Is it just because of the already present traction? Why wouldn't it be the case that the govt start a new cryptocurrency? But would people using bitcoin reject the new currency? And wouldn't there be a first-mover advantage if bitcoin is still used?
+
+---
+
 > Focus should be on content. Good blog, good content!

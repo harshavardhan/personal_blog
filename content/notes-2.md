@@ -40,4 +40,16 @@ If you want to catch up with the buzz on twitter about Clubhouse, [here](https:/
 
 [Buffer](https://buffer.com/): Schedule your social media updates and keep track of reach, impact.
 
+[Cloudflare](https://www.cloudflare.com/): Imagine the extra efforts needed to write an API with rate-limits. And then consider additional efforts needed trying to write code to mitigate [DDOS](https://en.wikipedia.org/wiki/Denial-of-service_attack) attacks, bots. Cloudflare helps in avoiding DDOS attacks and [CDN support](https://en.wikipedia.org/wiki/Content_delivery_network).
+
+Authentication and [IAM](https://en.wikipedia.org/wiki/Identity_management) as service: [Okta](https://www.okta.com/) and [Auth0](https://auth0.com/) (On Google, I saw an Auth0 vs. Okta ad redirecting to Okta. Just crazy marketing. These days when I search for small business sites on Google, I consciously avoid clicking on the promoted ad link of the website to save the business some tiny cents :relaxed:)
+
+[Drift](https://www.drift.com/): Conversations on site for queries/sales as a service
+
+[Palantir](https://www.palantir.com/): Data Monitoring for National Security, Fraud prevention (surprised seeing the idea of this highly valued startup)
+
+Read on the failure of [MoviePass](https://www.moviepass.com/): An unlimited monthly subscription service for 10 USD. Are you kidding? (*TODO: Add useful link to read*)
+
+Change startup-centered news to non-valuation centric headlines?
+
 > Some of these are high-level opinions and not so highly researched.
