@@ -1,16 +1,16 @@
 ---
-title: "Opinions/Notes placeholder"
+title: "Notes"
 type: "page"
 ---
 
 <!-- TODO : Modify content binding to this base url -->
 
-[Just some random thoughts 1 (might be a bit programming inclined)](/notes-1)
+[Random thoughts centered around my daily activity](/notes-1)
 
-[Opinions on startups (mostly in the Indian setting)](/notes-2)
+[Opinions on startups](/notes-2)
 
-[General things to read about (for future)](/notes-3)
+[Random thoughts centered around businesses](/notes-3)
 
-[Products/apps to try out and research](/notes-4)
+[Product/App suggestions](/notes-4)
 
-[Good resources/sites I found](/notes-5)
+[Good resources/sites](/notes-5)
