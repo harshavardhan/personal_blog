@@ -44,7 +44,7 @@ weight = 4
 
 [[menu.main]]
 name = "Notes"
-url = "/random"
+url = "/notes"
 weight = 3
 
 [[params.social]]
