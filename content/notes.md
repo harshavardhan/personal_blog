@@ -5,12 +5,12 @@ type: "page"
 
 <!-- TODO : Modify content binding to this base url -->
 
-[Random thoughts centered around my daily activity](/notes-1)
+[Random thoughts centered around my daily activity](/thoughts)
 
-[Opinions on startups](/notes-2)
+[Opinions on startups](/op_startups)
 
-[Random thoughts centered around businesses](/notes-3)
+[Random thoughts centered around businesses](/thoughts_businesses)
 
-[Product/App suggestions](/notes-4)
+[Product/App suggestions](/product_suggestions)
 
-[Good resources/sites](/notes-5)
+[Good resources/sites](/suggested_resources)
