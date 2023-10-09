@@ -3,12 +3,12 @@ title: "Now"
 type: "page"
 ---
 
-I currently work at Samsung.
+Am currently not employed and looking for work opportunities with some significant overlap with either of backend engineering, data engineering and distributed systems.
 
-These days I mostly spend time reading articles/blogs on the web related to programming, startups, finance, and world history/politics.
+I most recently worked at [RoverX](https://www.ycombinator.com/companies/roverx) for a couple of years as an early engineer on the backend team where we built a crypto exchange aggregator platform and an NFT analytics and alerts tool.
 
-In the programming world, I am enthusiastic about FOSS and impressive communities. I came across (Docker) containers, Kubernetes, and CNCF a while ago.  After knowing more about Kubernetes, my interest in Distributed Systems grew. I try to keep following the cloud community, but I find it tight keeping up to date when you don’t work much in the same field.
+I am currently based out of Bangalore.
 
-When I'm home, I mostly surf web, watch a lot of movies/series on Netflix, Prime Video.
+In the programming world, I am enthusiastic about FOSS and impressive communities though have never been an active contributor yet. My goal (over the next year) is to find some interesting repos where I can contribute and be more active.
 
 > Inspired from the [/now](https://sivers.org/nowff) page movement
