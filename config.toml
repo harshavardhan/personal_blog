@@ -64,3 +64,6 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
+
+[security.funcs]
+getenv = [ "REV_EMAIL" ]
